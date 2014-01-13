@@ -1,0 +1,1 @@
+./osm2pgrouting -file "/home/user/Desktop/pgrouting-workshop/Samara/samara-tolyatti.osm" \-conf "/usr/share/osm2pgrouting/mapconfig.xml" \-dbname pgrouting-Samara \-user user \-passwd user \-clean
