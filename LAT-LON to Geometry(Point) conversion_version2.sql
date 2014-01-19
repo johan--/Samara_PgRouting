@@ -1,0 +1,1 @@
+SELECT * FROM ways_vertices_pgr WHERE the_geom = (SELECT ST_GeometryFromText('POINT(51.3432127 53.3814702)',4326))

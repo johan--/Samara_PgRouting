@@ -1,0 +1,1 @@
+ALTER TABLE mytable ADD COLUMN gid serial PRIMARY KEY;
